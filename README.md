@@ -1,4 +1,4 @@
-# AB InBev : Optimizing Marketing Spend
+#Optimizing Marketing Spend
 
 The aim of this project was to unlock crucial insights through customer survey responses, to drive positive growth in brand recognition and user satisfaction by supplementing the company’s marketing strategy.
 
