@@ -9,7 +9,10 @@ Each cluster has been labeled to facilitate easy reference and communication. Th
 
 - Data Preprocessing: Raw customer survey data has been preprocessed to ensure accuracy and reliability in subsequent analyses. This involves handling missing values, standardizing formats, and cleaning the dataset for optimal results.
 
-(-) Clustering: Utilizing advanced clustering algorithms, we segmented the customer base into distinct groups. These clusters form the foundation for our customer personas, enabling a nuanced understanding of diverse customer needs, preferences, and behaviors.
+- Clustering: Utilizing advanced clustering algorithms, we segmented the customer base into distinct groups. These clusters form the foundation for our customer personas, enabling a nuanced understanding of diverse customer needs, preferences, and behaviors.
+
+![image](https://github.com/achakraborty18/AleAnalytica/assets/150084176/85d6cfc9-d8b0-4b36-a8ec-b177f5d98958)
+
 
 - Feature Selection: To focus on the most influential factors, we employed feature selection techniques to narrow down the dataset. This step ensures that our analysis is centered on the most pertinent variables for persona creation and strategy formulation.
 
